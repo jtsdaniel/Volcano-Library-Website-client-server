@@ -1,0 +1,1 @@
+export const headUrl = "http://localhost:3000";

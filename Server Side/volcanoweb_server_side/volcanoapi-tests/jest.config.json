@@ -1,0 +1,13 @@
+{
+  "reporters": [
+    "default",
+    [
+      "./node_modules/jest-html-reporter",
+      {
+        "pageTitle": "Test Report",
+        "outputPath": "report.html"
+      }
+    ]
+  ],
+  "testSequencer": "./sequence.js"
+}
