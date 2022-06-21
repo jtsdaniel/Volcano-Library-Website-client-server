@@ -67,4 +67,4 @@ You can now see the client side - website is running on http://localhost:3006/
 ```bash
 npm test
 ```
-
+p.s: For more details of client side or server side please have a look on the reports inside relevant named folders
