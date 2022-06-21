@@ -65,7 +65,7 @@ You can now see the client side - website is running on http://localhost:3006/
 ![client_demo](https://github.com/jtsdaniel/Volcano-Library-Website-client-server/blob/master/Client%20Side/Volcano%20Web%20App%20-%20Client%20Side/public/img/client_demo.PNG?raw=true)
 
 
-4. (Optional) if you want to test the server Rest APIs, head into path:".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/volcanoapi-tests/" in your terminal run command
+4. (Optional) if you want to test the server Rest APIs, head into path:*".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/volcanoapi-tests/"* in your terminal run command
 
 ```bash
 npm test
