@@ -54,6 +54,7 @@ As you can see the paramaters are similar to the previous paramters we enter whe
 npm start
 ```
 You can now see the server (Rest APIs) is running on http://localhost:3000/ 
+![server_demo](https://github.com/jtsdaniel/Volcano-Library-Website-client-server/blob/master/Client%20Side/Volcano%20Web%20App%20-%20Client%20Side/public/img/server_demo.PNG?raw=true)
 
 3. Then go to path:".../Volcano-Library-Website-client-server/Client Side/Volcano Web App - Client Side/" in your terminal run command
 
@@ -61,8 +62,8 @@ You can now see the server (Rest APIs) is running on http://localhost:3000/
 npm start
 ```
 You can now see the client side - website is running on http://localhost:3006/ 
+![client_demo](https://github.com/jtsdaniel/Volcano-Library-Website-client-server/blob/master/Client%20Side/Volcano%20Web%20App%20-%20Client%20Side/public/img/client_demo.PNG?raw=true)
 
-![server_demo](https://github.com/jtsdaniel/Volcano-Library-Website-client-server/blob/master/Client%20Side/Volcano%20Web%20App%20-%20Client%20Side/public/img/server_demo.PNG?raw=true)
 
 4. (Optional) if you want to test the server Rest APIs, head into path:".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/volcanoapi-tests/" in your terminal run command
 
