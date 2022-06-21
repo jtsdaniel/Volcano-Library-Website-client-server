@@ -11,7 +11,7 @@ Installation guides:
 git clone https://github.com/jtsdaniel/Volcano-Library-Website-client-server-.git
 ```
 
-##Client Side installation
+## Client Side installation
 
 2. Follow this path: "Volcano-Library-Website-client-server/Client Side/Volcano Web App - Client Side/" then in your machine's terminal enter
 
