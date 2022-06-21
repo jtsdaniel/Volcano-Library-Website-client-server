@@ -3,10 +3,6 @@ A project offered from my university (CAB230- Assignments)
 
 Description: In this project i have created a Web User Interface (CSS) for a Volcano Library and also its' Rest APIs (Express.Js).   
 
-# User guides:
-To run the whole application
-
-
 # Installation guides:
 
 1. Install the repo into your local machine
@@ -44,3 +40,27 @@ npm install
 ```bash
 npm install
 ```
+
+# User guides:
+To run the whole application you must create connection to database as mentioned in "Installation Guide" 
+
+1. Head into this follow path:".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/expvolcano/" in your terminal run command
+
+```bash
+npm start
+```
+You can now see the server (Rest APIs) is running on http://localhost:3000/ 
+
+2. Then go to path:".../Volcano-Library-Website-client-server/Client Side/Volcano Web App - Client Side/" in your terminal run command
+
+```bash
+npm start
+```
+You can now see the client side - website is running on http://localhost:3006/ 
+
+3. (Optional) if you want to test the server Rest APIs, head into path:".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/volcanoapi-tests/" in your terminal run command
+
+```bash
+npm test
+```
+
