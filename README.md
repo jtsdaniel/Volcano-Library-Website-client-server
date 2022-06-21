@@ -1,7 +1,7 @@
 # Volcano-Library-Website-client&server
 A project offered from my university (CAB230- Assignments)
 
-Description: In this project i have created a Web User Interface (React) for a Volcano Library and also its' Rest APIs (Express.Js).   
+Description: In this project i have created a Web User Interface (React) for a Volcano Library and also its' Rest APIs (Express.Js). User can get information about the volcano details (name, id, countries, last eruption time and more) and it's location on world map (displayed on a 2D map). Furthermore, if a user login into their account, they can unlock a table diagram showcase in Volcano Details page.
 
 # Installation guides:
 
