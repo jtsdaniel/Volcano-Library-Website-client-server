@@ -42,7 +42,7 @@ npm install
 ```
 
 # User guides:
-To run the whole application you must create connection to database as mentioned in "Installation Guide" 
+1. To run the whole application you must create connection to database as mentioned in "Installation Guide". One mention is you need to change some paramters in knex form to lets the application connect to database. the knex-form can be found in this path:".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/expvolcano/knexfile.js".
 
 1. Head into this follow path:".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/expvolcano/" in your terminal run command
 
