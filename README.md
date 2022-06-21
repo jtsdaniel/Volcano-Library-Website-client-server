@@ -48,21 +48,21 @@ npm install
 
 As you can see the paramaters are similar to the previous paramters we enter when creating new connection in MySQL workbench. Make sure to change "Password" to your root password created during your "MySQL workbench" installation process.
 
-1. Head into this follow path:".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/expvolcano/" in your terminal run command
+2. Head into this follow path:".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/expvolcano/" in your terminal run command
 
 ```bash
 npm start
 ```
 You can now see the server (Rest APIs) is running on http://localhost:3000/ 
 
-2. Then go to path:".../Volcano-Library-Website-client-server/Client Side/Volcano Web App - Client Side/" in your terminal run command
+3. Then go to path:".../Volcano-Library-Website-client-server/Client Side/Volcano Web App - Client Side/" in your terminal run command
 
 ```bash
 npm start
 ```
 You can now see the client side - website is running on http://localhost:3006/ 
 
-3. (Optional) if you want to test the server Rest APIs, head into path:".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/volcanoapi-tests/" in your terminal run command
+4. (Optional) if you want to test the server Rest APIs, head into path:".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/volcanoapi-tests/" in your terminal run command
 
 ```bash
 npm test
