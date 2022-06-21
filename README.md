@@ -10,7 +10,9 @@ Installation guides:
 ```bash
 git clone https://github.com/jtsdaniel/Volcano-Library-Website-client-server-.git
 ```
+
 ##Client Side installation
+
 2. Follow this path: "Volcano-Library-Website-client-server/Client Side/Volcano Web App - Client Side/" then in your machine's terminal enter
 
 ```bash
