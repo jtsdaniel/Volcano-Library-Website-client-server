@@ -10,7 +10,7 @@ Description: In this project i have created a Web User Interface (CSS) for a Vol
 ```bash
 git clone https://github.com/jtsdaniel/Volcano-Library-Website-client-server-.git
 ```
-2. Install MySQL workbench - [follow this guide](https://www.simplilearn.com/tutorials/mysql-tutorial/mysql-workbench-installation)
+2. Install MySQL workbench - [follow this guide](https://www.simplilearn.com/tutorials/mysql-tutorial/mysql-workbench-installation). Remember your root password cause we gonna need it to edit knexfile and create connection between application and database.
 
 3. Setup new connection on MySQL workbench then open database "Dump.sql" - you can find it in this path ".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/expvolcano/dump.sql"
 
@@ -43,6 +43,10 @@ npm install
 
 # User guides:
 1. To run the whole application you must create connection to database as mentioned in "Installation Guide". One mention is you need to change some paramters in knex form to lets the application connect to database. the knex-form can be found in this path:".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/expvolcano/knexfile.js".
+
+![knexfile](https://github.com/jtsdaniel/Volcano-Library-Website-client-server/blob/master/Client%20Side/Volcano%20Web%20App%20-%20Client%20Side/public/img/knexfile.PNG?raw=true)
+
+As you can see the paramaters are similar to the previous paramters we enter when creating new connection in MySQL workbench. Make sure to change "Password" to your root password created during your "MySQL workbench" installation process.
 
 1. Head into this follow path:".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/expvolcano/" in your terminal run command
 
