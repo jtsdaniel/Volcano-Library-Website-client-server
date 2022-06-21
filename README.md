@@ -20,7 +20,7 @@ git clone https://github.com/jtsdaniel/Volcano-Library-Website-client-server-.gi
 
 Note: for connection parameter use HostName: 127.0.0.1, Port: 3306 and Username: root (standard)
 
-![example]("https://github.com/jtsdaniel/Volcano-Library-Website-client-server-/blob/d42a6daecc871ad8622b003c0d921618861a7a7b/Client Side Volcano Web App - Client Side/public/img/Capture.PNG")
+![example](https://github.com/jtsdaniel/Volcano-Library-Website-client-server/blob/master/Client%20Side/Volcano%20Web%20App%20-%20Client%20Side/public/img/Capture.PNG?raw=true)
 
 ## Client Side installation
 
