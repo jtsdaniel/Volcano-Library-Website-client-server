@@ -62,6 +62,8 @@ npm start
 ```
 You can now see the client side - website is running on http://localhost:3006/ 
 
+![server_demo](https://github.com/jtsdaniel/Volcano-Library-Website-client-server/blob/master/Client%20Side/Volcano%20Web%20App%20-%20Client%20Side/public/img/server_demo.PNG?raw=true | width=200)
+
 4. (Optional) if you want to test the server Rest APIs, head into path:".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/volcanoapi-tests/" in your terminal run command
 
 ```bash
