@@ -26,9 +26,9 @@ npm install
 npm install
 ```
 
-## Install Test Plans for the website (Optional)
+## Install Test Plans for the website (Optional) - this test plans reference to [QUT teaching team](https://github.com/chadggay/volcanoapi-tests/)
 
-3. Follow this path: "Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/volcanoapi-tests/" then in your machine's terminal enter "npm install" 
+3. Follow this path: ".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/volcanoapi-tests/" then in your machine's terminal enter "npm install" 
 
 ```bash
 npm install
