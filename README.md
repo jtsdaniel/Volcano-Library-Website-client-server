@@ -12,7 +12,7 @@ git clone https://github.com/jtsdaniel/Volcano-Library-Website-client-server.git
 ```
 2. Install MySQL workbench - [follow this guide](https://www.simplilearn.com/tutorials/mysql-tutorial/mysql-workbench-installation). Remember your root password cause we gonna need it to edit knexfile and create connection between application and database.
 
-3. Setup new connection on MySQL workbench then open database "Dump.sql" - you can find it in this path ".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/expvolcano/dump.sql"
+3. Setup new connection on MySQL workbench then open database "Dump.sql" - you can find it in this path *".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/expvolcano/dump.sql"*
 
 Note: for connection parameter use HostName: 127.0.0.1, Port: 3306 and Username: root (standard)
 
@@ -20,14 +20,14 @@ Note: for connection parameter use HostName: 127.0.0.1, Port: 3306 and Username:
 
 ## Client Side installation
 
-4. Follow this path: ".../Volcano-Library-Website-client-server/Client Side/Volcano Web App - Client Side/" then in your machine's terminal enter "npm install" - [learn more](https://docs.npmjs.com/cli/v6/commands/npm-install)
+4. Follow this path: *".../Volcano-Library-Website-client-server/Client Side/Volcano Web App - Client Side/"* then in your machine's terminal enter "npm install" - [learn more](https://docs.npmjs.com/cli/v6/commands/npm-install)
 
 ```bash
 npm install
 ```
 ## Server Side installation
 
-4. Follow this path: ".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/expvolcano/" then in your machine's terminal enter "npm install" 
+4. Follow this path: *".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/expvolcano/"* then in your machine's terminal enter "npm install" 
 
 ```bash
 npm install
@@ -35,7 +35,7 @@ npm install
 
 ## Install Test Plans for the website (Optional) - this test plans reference to [QUT teaching team](https://github.com/chadggay/volcanoapi-tests/)
 
-5. Follow this path: ".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/volcanoapi-tests/" then in your machine's terminal enter "npm install" 
+5. Follow this path: *".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/volcanoapi-tests/"* then in your machine's terminal enter "npm install" 
 
 ```bash
 npm install
@@ -48,7 +48,7 @@ npm install
 
 As you can see the paramaters are similar to the previous paramters we enter when creating new connection in MySQL workbench. Make sure to change "Password" to your root password created during your "MySQL workbench" installation process.
 
-2. Head into this follow path:".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/expvolcano/" in your terminal run command
+2. Head into this follow path:*".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/expvolcano/"* in your terminal run command
 
 ```bash
 npm start
@@ -56,7 +56,7 @@ npm start
 You can now see the server (Rest APIs) is running on http://localhost:3000/ 
 ![server_demo](https://github.com/jtsdaniel/Volcano-Library-Website-client-server/blob/master/Client%20Side/Volcano%20Web%20App%20-%20Client%20Side/public/img/server_demo.PNG?raw=true)
 
-3. Then go to path:".../Volcano-Library-Website-client-server/Client Side/Volcano Web App - Client Side/" in your terminal run command
+3. Then go to path:*".../Volcano-Library-Website-client-server/Client Side/Volcano Web App - Client Side/"* in your terminal run command
 
 ```bash
 npm start
