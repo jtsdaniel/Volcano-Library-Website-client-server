@@ -13,7 +13,22 @@ git clone https://github.com/jtsdaniel/Volcano-Library-Website-client-server-.gi
 
 ## Client Side installation
 
-2. Follow this path: "Volcano-Library-Website-client-server/Client Side/Volcano Web App - Client Side/" then in your machine's terminal enter "npm install" - [learn more](https://docs.npmjs.com/cli/v6/commands/npm-install)
+2. Follow this path: ".../Volcano-Library-Website-client-server/Client Side/Volcano Web App - Client Side/" then in your machine's terminal enter "npm install" - [learn more](https://docs.npmjs.com/cli/v6/commands/npm-install)
+
+```bash
+npm install
+```
+## Server Side installation
+
+2. Follow this path: ".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/expvolcano/" then in your machine's terminal enter "npm install" 
+
+```bash
+npm install
+```
+
+## Install Test Plans for the website (Optional)
+
+3. Follow this path: "Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/volcanoapi-tests/" then in your machine's terminal enter "npm install" 
 
 ```bash
 npm install
