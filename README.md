@@ -19,7 +19,7 @@ git clone https://github.com/jtsdaniel/Volcano-Library-Website-client-server-.gi
 3. Setup new connection on MySQL workbench then open database "Dump.sql" - you can find it in this path ".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/expvolcano/dump.sql"
 
 Note: for connection parameter use HostName: 127.0.0.1, Port: 3306 and Username: root (standard)
-![example](https://github.com/jtsdaniel/Volcano-Library-Website-client-server-/blob/d42a6daecc871ad8622b003c0d921618861a7a7b/Client Side/Volcano Web App - Client Side/public/img/Capture.PNG)
+![example](https://github.com/jtsdaniel/Volcano-Library-Website-client-server-/blob/d42a6daecc871ad8622b003c0d921618861a7a7b/"Client Side Volcano Web App - Client Side"/public/img/Capture.PNG)
 
 ## Client Side installation
 
