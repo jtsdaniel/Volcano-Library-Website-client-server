@@ -8,7 +8,7 @@ Description: In this project i have created a Web User Interface (React) for a V
 1. Install the repo into your local machine
 
 ```bash
-git clone https://github.com/jtsdaniel/Volcano-Library-Website-client-server-.git
+git clone https://github.com/jtsdaniel/Volcano-Library-Website-client-server.git
 ```
 2. Install MySQL workbench - [follow this guide](https://www.simplilearn.com/tutorials/mysql-tutorial/mysql-workbench-installation). Remember your root password cause we gonna need it to edit knexfile and create connection between application and database.
 
