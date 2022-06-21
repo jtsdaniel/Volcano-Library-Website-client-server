@@ -3,6 +3,10 @@ A project offered from my university (CAB230- Assignments)
 
 Description: In this project i have created a Web User Interface (CSS) for a Volcano Library and also its' Rest APIs (Express.Js).   
 
+# User guides:
+To run the whole application
+
+
 # Installation guides:
 
 1. Install the repo into your local machine
@@ -10,17 +14,22 @@ Description: In this project i have created a Web User Interface (CSS) for a Vol
 ```bash
 git clone https://github.com/jtsdaniel/Volcano-Library-Website-client-server-.git
 ```
+2. Install MySQL workbench - [follow this guide](https://www.simplilearn.com/tutorials/mysql-tutorial/mysql-workbench-installation)
+
+3. Setup new connection on MySQL workbench then open database "Dump.sql" - you can find it in this path ".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/expvolcano/dump.sql"
+
+Note: 
 
 ## Client Side installation
 
-2. Follow this path: ".../Volcano-Library-Website-client-server/Client Side/Volcano Web App - Client Side/" then in your machine's terminal enter "npm install" - [learn more](https://docs.npmjs.com/cli/v6/commands/npm-install)
+4. Follow this path: ".../Volcano-Library-Website-client-server/Client Side/Volcano Web App - Client Side/" then in your machine's terminal enter "npm install" - [learn more](https://docs.npmjs.com/cli/v6/commands/npm-install)
 
 ```bash
 npm install
 ```
 ## Server Side installation
 
-2. Follow this path: ".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/expvolcano/" then in your machine's terminal enter "npm install" 
+4. Follow this path: ".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/expvolcano/" then in your machine's terminal enter "npm install" 
 
 ```bash
 npm install
@@ -28,7 +37,7 @@ npm install
 
 ## Install Test Plans for the website (Optional) - this test plans reference to [QUT teaching team](https://github.com/chadggay/volcanoapi-tests/)
 
-3. Follow this path: ".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/volcanoapi-tests/" then in your machine's terminal enter "npm install" 
+5. Follow this path: ".../Volcano-Library-Website-client-server/Server Side/volcanoweb_server_side/volcanoapi-tests/" then in your machine's terminal enter "npm install" 
 
 ```bash
 npm install
